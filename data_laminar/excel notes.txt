@@ -1,0 +1,1 @@
+The first column represents "Distance (pixels)," with statistical lengths ranging from 0 to 700 pixels for the ACAd brain region and from 0 to 800 pixels for the MOs brain region. The second, fourth, sixth, eighth, tenth, etc., columns correspond to the ACAd brain region, while the third, fifth, seventh, ninth, eleventh, etc., columns correspond to the MOs brain region.
